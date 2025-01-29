@@ -6,7 +6,7 @@
 ## 🛠️ Tecnologias
 - **Linguagens:** JavaScript e PHP
 - **Frameworks/Bibliotecas:** React, Ajax, CakePHP e Laravel
-- **Outros:** SQL, NoSQL
+- **Outros:** SQL, NoSQL, WordPress
 
 ## 📈 Estatísticas do GitHub
 ![GitHub do Emerson](https://github-readme-stats.vercel.app/api?username=Dinizzzion&show_icons=true&theme=radical)
